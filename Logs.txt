@@ -1,0 +1,704 @@
+AUTORUN START
+CYCLE 0 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 1 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 2 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 3 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 4 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 5 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 6 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 7 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 8 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 9 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 10 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 11 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 12 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 13 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 14 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 15 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 16 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 17 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 18 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 19 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 20 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 21 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 22 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 23 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 24 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 25 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 26 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 27 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 28 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 29 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 30 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 31 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 32 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 33 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 34 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 35 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 36 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 37 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 38 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 39 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 40 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 41 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 42 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 43 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 44 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 45 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 46 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 47 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 48 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 49 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 50 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 51 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 52 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 53 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 54 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 55 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 56 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 57 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 58 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 59 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 60 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 61 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 62 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 63 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 64 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 65 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 66 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 67 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 68 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 69 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 70 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 71 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 72 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 73 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 74 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 75 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 76 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 77 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 78 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 79 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 80 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 81 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 82 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 83 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 84 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 85 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 86 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 87 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 88 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 89 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 90 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 91 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 92 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 93 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 94 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 95 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 96 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 97 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 98 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+CYCLE 99 OUT OF 100
+
+Genetic algorithm
+GA finished
+Facilities:  0 1 2 3 4
+Captured demand: 568627
+
+AUTORUN END
+Mon May  2 21:31:54 2022
+

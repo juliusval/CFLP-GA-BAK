@@ -1,0 +1,18 @@
+{
+  "DP": 1000,
+  "PF": 30,
+  "CL": 1000,
+  "X": 10,
+  "MAX_POPULATION_SIZE": 10,
+  "GA_ITERATIONS": 1000,
+  "ALG": 3,
+  "RULE": 0,
+  "LOG": true,
+  "SHOW_DEMAND_PROGRESS": true,
+  "PROCESS_SYNC_ALG": 0,
+  "LOG_LEVEL": 0,
+  "AUTORUN_ENABLED": 1,
+  "AUTORUN_CYCLES": 50,
+  "AUTORUN_SYNC_FREQ": 1,
+  "DESCRIPTION": "PROD solution db test LONG RUNx4"
+}

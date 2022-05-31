@@ -1,0 +1,6 @@
+Description: PROD solution db test LONG RUNx4
+PROCS: 0
+AUTORUN START
+AUTORUN PREP DONE
+CYCLE 0 OUT OF 50
+

@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Model">
+      <UniqueIdentifier>{94357a94-f6a8-4ec2-84b2-82e64d3c07b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Data">
+      <UniqueIdentifier>{97e28669-0883-4ff1-86c2-c2a86604d511}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Setup">
+      <UniqueIdentifier>{46b1eba5-c2d0-4930-a2c6-ae0b12df1a45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Flp">
+      <UniqueIdentifier>{4a30a893-397d-4b10-a8d4-969aca6aa9cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Helper">
+      <UniqueIdentifier>{98f0e061-041d-4447-a9aa-e8ecdda94ff4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Model">
+      <UniqueIdentifier>{8de8613e-ef3b-43cd-88f4-816ae10e916d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Data">
+      <UniqueIdentifier>{5cd01c44-7a97-4bee-b66d-2a02a9fb191c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Flp">
+      <UniqueIdentifier>{c3ec82e9-44d0-45bb-afd1-acfbbcac6b8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Helper">
+      <UniqueIdentifier>{7d428296-f43e-47d4-b839-6721eb23af8a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Setup">
+      <UniqueIdentifier>{f0cd4772-ba0d-4fb3-a768-c83c96615352}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\MPI">
+      <UniqueIdentifier>{30bd5d20-c5e6-4db7-b5ea-1066db815dc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\MPI">
+      <UniqueIdentifier>{eac328fa-5d6e-49b8-ba04-9bdc5cdb5a2a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CFLP-GA-CPP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomerChoiceRule.cpp">
+      <Filter>Source Files\Flp</Filter>
+    </ClCompile>
+    <ClCompile Include="DataHelper.cpp">
+      <Filter>Source Files\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="DemandPoint.cpp">
+      <Filter>Source Files\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="FlpAlgorithm.cpp">
+      <Filter>Source Files\Flp</Filter>
+    </ClCompile>
+    <ClCompile Include="LocationHelper.cpp">
+      <Filter>Source Files\Helper</Filter>
+    </ClCompile>
+    <ClCompile Include="InterfaceManager.cpp">
+      <Filter>Source Files\Setup</Filter>
+    </ClCompile>
+    <ClCompile Include="Population.cpp">
+      <Filter>Source Files\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution.cpp">
+      <Filter>Source Files\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Autorun.cpp">
+      <Filter>Source Files\Setup</Filter>
+    </ClCompile>
+    <ClCompile Include="PopAlgorithm.cpp">
+      <Filter>Source Files\Flp</Filter>
+    </ClCompile>
+    <ClCompile Include="Params.cpp">
+      <Filter>Source Files\Setup</Filter>
+    </ClCompile>
+    <ClCompile Include="PopAlgorithmMPI.cpp">
+      <Filter>Source Files\Flp</Filter>
+    </ClCompile>
+    <ClCompile Include="Log.cpp">
+      <Filter>Source Files\Helper</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingsHelper.cpp">
+      <Filter>Source Files\Helper</Filter>
+    </ClCompile>
+    <ClCompile Include="ResultHelper.cpp">
+      <Filter>Source Files\Helper</Filter>
+    </ClCompile>
+    <ClCompile Include="RankSynchronizer.cpp">
+      <Filter>Source Files\MPI</Filter>
+    </ClCompile>
+    <ClCompile Include="SolutionSynchronizer.cpp">
+      <Filter>Source Files\MPI</Filter>
+    </ClCompile>
+    <ClCompile Include="PopsolutionDb.cpp">
+      <Filter>Source Files\Flp</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Location.h">
+      <Filter>Header Files\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution.h">
+      <Filter>Header Files\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Population.h">
+      <Filter>Header Files\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Facility.h">
+      <Filter>Header Files\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="DataHelper.h">
+      <Filter>Header Files\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="Params.h">
+      <Filter>Header Files\Setup</Filter>
+    </ClInclude>
+    <ClInclude Include="InterfaceManager.h">
+      <Filter>Header Files\Setup</Filter>
+    </ClInclude>
+    <ClInclude Include="DemandPoint.h">
+      <Filter>Header Files\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomerChoiceRule.h">
+      <Filter>Header Files\Flp</Filter>
+    </ClInclude>
+    <ClInclude Include="FlpAlgorithm.h">
+      <Filter>Header Files\Flp</Filter>
+    </ClInclude>
+    <ClInclude Include="LocationHelper.h">
+      <Filter>Header Files\Helper</Filter>
+    </ClInclude>
+    <ClInclude Include="Autorun.h">
+      <Filter>Header Files\Setup</Filter>
+    </ClInclude>
+    <ClInclude Include="json.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PopAlgorithmMPI.h">
+      <Filter>Header Files\Flp</Filter>
+    </ClInclude>
+    <ClInclude Include="Log.h">
+      <Filter>Header Files\Helper</Filter>
+    </ClInclude>
+    <ClInclude Include="SettingsHelper.h">
+      <Filter>Header Files\Helper</Filter>
+    </ClInclude>
+    <ClInclude Include="ResultHelper.h">
+      <Filter>Header Files\Helper</Filter>
+    </ClInclude>
+    <ClInclude Include="Run.h">
+      <Filter>Header Files\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="ProcessSynchronizer.h">
+      <Filter>Header Files\MPI</Filter>
+    </ClInclude>
+    <ClInclude Include="RankSynchronizer.h">
+      <Filter>Header Files\MPI</Filter>
+    </ClInclude>
+    <ClInclude Include="SolutionSynchronizer.h">
+      <Filter>Header Files\MPI</Filter>
+    </ClInclude>
+    <ClInclude Include="PopsolutionDb.h">
+      <Filter>Header Files\Flp</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\CFLP-GA\demandPointsRandomQuality.dat" />
+    <None Include="Settings.json" />
+  </ItemGroup>
+</Project>
